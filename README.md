@@ -1,7 +1,6 @@
 <h1 align="center">Welcome to my github profile.</h1>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=antare74)
-[![fork this repo](http://githubbadges.com/fork.svg?user=ddavison&repo=github-badges)](https://github.com/antare74/jetbrains-reset)
 
 ### About Me.
 #### Hi there! I'm Aris <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
