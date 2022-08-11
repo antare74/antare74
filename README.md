@@ -1,5 +1,5 @@
 <h1 align="center">Welcome to my github profile!</h1>
-<span align="center">![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=antare74)</span>
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=antare74)
 
 ### About.
 #### Hi there! I'm Aris <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
