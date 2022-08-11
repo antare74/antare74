@@ -1,8 +1,7 @@
-<h1 align="center">Welcome <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"> </h1> 
+<h1 align="center">Hi there! I'm Aris <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"> </h1> 
 
 ### About Me.
-##### Hi there! I'm Aris
-⚡ I'm a programming Enthusiast who specializes in currently nothing, still havent found the one.
+##### ⚡ I'm a programming Enthusiast who specializes in currently nothing, still havent found the one.
 
 ### Visitor.
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=antare74)
