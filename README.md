@@ -1,9 +1,11 @@
 <h1 align="center">Welcome to my profile. </h1> 
 
 ### About Me.
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=antare74)
 #### Hi there! I'm Aris <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
 ⚡ I'm a programming Enthusiast who specializes in currently nothing, still havent found the one.
+
+### Visitor.
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=antare74)
 
 ### Stats.
 <a href="https://github.com/antare74">
