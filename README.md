@@ -14,5 +14,9 @@
   <img height="200px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antare74&layout=compact&langs_count=20&count_private=true&hide_border=false&theme=vue-dark" />
 </a>
 
+###
+
+<img width="100%" align="center" style="margin-top: 199px;"  src="https://metrics.lecoq.io/antare74?template=terminal&base.header=0&isocalendar=1&achievements=1&stackoverflow=1&followup=1&base.indepth=false&base.hireable=false&isocalendar.duration=half-year&followup.sections=repositories&followup.indepth=false&followup.archived=true&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&stackoverflow.user=11778624&stackoverflow.sections=answers-top&stackoverflow.limit=4&stackoverflow.lines=4&stackoverflow.lines.snippet=2&config.timezone=Asia%2FJakarta&config.display=large&config.presets=%40lunar-red" />
+
 ### Metrics. 
 ![Metrics](https://metrics.lecoq.io/antare74?template=classic&base.header=0&isocalendar=1&stackoverflow=1&achievements=1&followup=1&base.indepth=false&base.hireable=false&isocalendar.duration=half-year&followup.sections=repositories&followup.indepth=false&followup.archived=true&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&stackoverflow.user=11778624&stackoverflow.sections=answers-top%2C%20questions-recent&stackoverflow.limit=2&stackoverflow.lines=4&stackoverflow.lines.snippet=2&config.timezone=Asia%2FJakarta&config.display=large)
