@@ -3,7 +3,6 @@
 ### About Me.
 ##### ⚡ I'm a programming Enthusiast who specializes in currently nothing, still havent found the one.
 
-### Visitor.
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=antare74)
 
 ### Stats.
