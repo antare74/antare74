@@ -15,4 +15,4 @@
 
 ### Metrics. 
 
-![Metrics](https://metrics.lecoq.io/antare74?template=classic&base.header=0&isocalendar=1&achievements=1&followup=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&isocalendar=false&isocalendar.duration=half-year&followup=false&followup.sections=repositories&followup.indepth=false&followup.archived=true&achievements=false&achievements.threshold=B&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FJakarta&config.display=large)
+![Metrics](https://metrics.lecoq.io/antare74?template=classic&base.hireable=true&base.header=0&achievements=1&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=true&isocalendar=false&isocalendar.duration=half-year&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FJakarta&config.display=large)
