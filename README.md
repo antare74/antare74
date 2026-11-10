@@ -1,11 +1,31 @@
-<div align="center">
+```text
+                    [+<>~_-????[]                  antare74@github —————————————————————————————-—-
+             (1[+I",;!I;l!!;:,,I;:,^":!_)\(||\     . OS: ................... Manjaro Linux, Windows
+          >,,:;;;l><<<<><>i!!>~i!!;I;,^'`_1[[[{(   . Kernel: .................... Backend Developer
+        <;Il>>~++___+~~~<~<<<ii~__>iiii!,">{}[[[   . IDE: .................... VS Code, Claude Code
+      _";i<++++__+++++~~~~~++~~?-i!l~~!iI;^I{{{}   .
+     I;i>~+++_-__+~+~>><>i<_?}[?<<ili!!!lII^>({{   . Languages.Programming: . PHP, JavaScript, Bash
+    ";<~+-??_-?~<>II:l;;lll+}[<i!>>!l>i!llI;"{|)   . Languages.Framework: ................. Laravel
+   -,i><~++_?-_~I`,,?i","."l?)[<!;;Il!ll!I;;^]/(   . Languages.Database: .... MySQL, MariaDB, Redis
+   >;i>><!:"^`^+vLCLm0m0c(}liil+[)-!"::::,,,`lt|   . Languages.DevOps: .. Docker, Linux, Nginx, Git
+    '!!+!]/}-]/nJwa%$$$$$$&L{___~!!;^,""";,,'+t|   .
+    ,",'I|fUphpq0cnc0aM%%#hm00LLJ0QmCf|{';I^,t\|   . Focus: ... Fintech, API Design, Infrastructure
+      ' +fcZU|Y)-fZCzXZ*#OYwZLn]1Y|zwZc/, ' >/((
+     ui +u0QunCCJqhOXuzqdCUOqhM8#hhdqZUji ^Jo))(   - Contact ———————————————————————————————————-—-
+     %ptiuLpkkdbakqmJnYmwLXLkhao#&W#*kLj,;LkY{()   . GitHub: ............................. antare74
+      mZij0baokahaWbcUwo*pLJO@8&MM#*okL}!nw({(()   . GitLab: ............................. antare74
+       v|]Jqao*#WBBwQZLo*wZp0M8B8WWMaOx>Lz[)|(((
+         {jQdo#ooakkppaM##dqbkha#M#owCf-(1(|(|(|
+          |zZpaakqLnvczzzzcuxjLbh*hdwU{})((||((
+            XQqhabOunuzJUUzcYCqkakw0v
+             jcC0Zwbkha**##**dmwLcn{
+              |UzzY0ba*oaaabpOXrxYY\
+              }LZOJcXCOqpwOCcxcZbqjn
+             %qULwdZLQZpbpmQUCwqOYza
+            @B$%hmpbwwbkkbpOLOmO0k@$
+```
 
-<a href="https://github.com/antare74">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg">
-    <img alt="antare74 GitHub Profile README" src="light_mode.svg" width="100%">
-  </picture>
-</a>
+<div align="center">
 
 <p>
   <a href="https://github.com/antare74"><img src="https://img.shields.io/github/followers/antare74?label=Followers&style=for-the-badge&color=42b883&logo=github" alt="Followers"/></a>
