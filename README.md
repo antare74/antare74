@@ -1,6 +1,11 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=42B883&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Aris+%F0%9F%91%8B;Backend+Developer;Laravel+%7C+Docker+%7C+MySQL+%7C+Redis;Building+fintech+systems+that+scale" alt="Typing SVG" />
+<a href="https://github.com/antare74">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg">
+    <img alt="antare74 GitHub Profile README" src="light_mode.svg" width="100%">
+  </picture>
+</a>
 
 <p>
   <a href="https://github.com/antare74"><img src="https://img.shields.io/github/followers/antare74?label=Followers&style=for-the-badge&color=42b883&logo=github" alt="Followers"/></a>
@@ -13,34 +18,8 @@
 
 ## 👨‍💻 About Me
 
-```php
-<?php
-
-class Aris extends Developer
-{
-    public string $role     = 'Backend Developer';
-    public string $location = 'Indonesia 🇮🇩';
-    public array  $focus    = ['Fintech', 'API Design', 'Infrastructure'];
-
-    public function currentlyWorkingOn(): string
-    {
-        return 'Fintag — a fintech backend platform';
-    }
-
-    public function stack(): array
-    {
-        return [
-            'backend'  => ['PHP', 'Laravel'],
-            'database' => ['MySQL', 'MariaDB', 'Redis'],
-            'devops'   => ['Docker', 'Linux', 'Nginx', 'Git'],
-        ];
-    }
-}
-```
-
-- 🔭 Currently building **Fintag**, a fintech backend (Laravel + Docker + MySQL + Redis)
+- 🔭 Currently building a **fintech backend** (Laravel + Docker + MySQL + Redis)
 - ⚙️ Comfortable managing production Linux servers, containers, and deployments
-- 🎓 Studying at **Esa Unggul University**
 - 💬 Ask me about **Laravel, REST APIs, Docker, and database tuning**
 
 ---
